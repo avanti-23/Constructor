@@ -20,13 +20,9 @@ public class TestPlayer {
 		System.out.println("Runs: " + p1.runs);
 		System.out.println("Wickets: " + p1.wickets);
 		System.out.println("Team: " + p1.team_name);
-		System.out.println("-----------------------------");
-		System.out.println("Jersey No: " + p6.jersey_no);
-		System.out.println("Player Name: " + p6.player_name);
-		System.out.println("Runs: " + p6.runs);
-		System.out.println("Wickets: " + p6.wickets);
-		System.out.println("Team: " + p6.team_name);
+	
 
 	}
 
 }
+
